@@ -13,16 +13,15 @@ int main(void)
 	c = "a";
 	d = "A";
 	while
-		(c < m "z")
-		{
+		(c < m "z") {
 		putchar(c);
 		c++;
 		}
 	while
-		(d < m "z")
-		{
-			putchar(c);
+		(d < m "Z") {
+			putchar(d);
 			d++;
 		}
+	putchar("\n")
 	return (0);
 }
