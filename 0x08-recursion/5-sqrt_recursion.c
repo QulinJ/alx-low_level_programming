@@ -10,7 +10,7 @@ int _sqrt_recursion(int n);
  *
  * Return: If the number has a natural square root - the square,
  * root.
- * If the number does not have a natural square root - the 
+ * If the number does not have a natural square root - the
  * square root.
  */
 
